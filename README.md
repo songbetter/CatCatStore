@@ -3,7 +3,7 @@
 - Redux 사용하여 State 관리
 - Next.js, React와 Hooks, JSX 사용
 - ES6 이상의 Javascript 사용
-- styled-componentsm sass 사용
+- styled-components sass 사용
 - UI라이브러리 미사용
 
 ## 페이지 구성
