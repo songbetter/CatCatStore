@@ -1,0 +1,4 @@
+{
+  "presets": ["next/babel"], // 하나의 목적을 위한 여러개의 플러그인 집합
+  "plugins": ["styled-components"] // babel-plugin-styled-components 추가하여 서버와 클라이언트 결괏값 일치.
+}
