@@ -21,6 +21,11 @@
 ```
 
 - 프로젝트 실행방법: 1) npm install 2) npm run dev 3) 개발자도구-모바일 모드
+## 주요 기능
+- Next.js 서버 사이드 렌더링 적용
+- Redux를 이용하여 장바구니 CRUD 기능 구현
+- Transition을 이용한 장바구니 금액 별 데이터 시각화
+- Custom-hook을 활용한 UI재사용: useDebounce, useEventListener, useScroll
 
 # 페이지 구성
 
@@ -62,6 +67,6 @@
 - 장바구니에 상품이 있을 경우 하단 버튼에 장바구니 수량과 "구매하기" 버튼이 렌더됩니다.
 - 장바구니가 비었을 경우 empty 이미지와 "캣캣스토어 둘러보기" 버튼이 렌더되고, 클릭 시 상품 리스트 페이지로 이동합니다.
 
-# Review
+## Review
 
 [블로그 바로가기](https://velog.io/@songbetter/CatCatStore-PurpleStore%EB%A5%BC-%EB%AA%A8%ED%8B%B0%EB%B8%8C%EB%A1%9C-%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
