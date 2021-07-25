@@ -1,7 +1,7 @@
 # Overview
 >레이아웃은 퍼플스토어 웹페이지를 참고하여 웹뷰로 제작하였습니다.
 - 기술스택: Redux, Next.js Javascript ES6+, Styled-Components
-- 작업기간: 2021
+- 작업기간: 2021.06.12 ~ 2021.6.16
 - TREE 구조
 ```js
 ├─common
